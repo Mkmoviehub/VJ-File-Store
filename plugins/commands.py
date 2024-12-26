@@ -56,8 +56,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('💝 sᴜʙsᴄʀɪʙᴇ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ', url='https://youtube.com/@Tech_VJ')
             ],[
-            InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/MKStreamingHub'),
-            InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/mkmovies_hub')
+            InlineKeyboardButton('🍿10 ʟᴀᴋs+ ᴍᴏᴠɪᴇs & sᴇʀɪᴇs ɢʀᴏᴜᴘ🍿', url='https://t.me/MKStreamingHub'),
+            InlineKeyboardButton('⚡ғɪʟᴍs ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ⚡', url='https://t.me/mkmovies_hub')
             ],[
             InlineKeyboardButton('💁‍♀️ ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('😊 ᴀʙᴏᴜᴛ', callback_data='about')
