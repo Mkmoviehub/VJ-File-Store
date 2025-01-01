@@ -80,7 +80,7 @@ if 'DYNO' in environ:
     ON_HEROKU = True
 else:
     ON_HEROKU = False
-URL = environ.get("URL", "https://vj-file-store-ijvj.onrender.com/")
+URL = environ.get("URL", "https://web-isf70ludg19k.up-de-fra1-k8s-1.apps.run-on-seenode.com/")
 
 
 # Don't Remove Credit Tg - @VJ_Botz
